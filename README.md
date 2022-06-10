@@ -1,4 +1,5 @@
-#Installation for MultiplayerSnakeGame
+# Installation for MultiplayerSnakeGame
+_ 
 
 * To install this game in your terminal type in 
 ```shell
